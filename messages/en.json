@@ -1,0 +1,23 @@
+{
+    "Navbar": {
+        "product": "Product",
+        "learning": "Learning",
+        "solutions": "Solutions",
+        "pricing": "Pricing",
+        "signIn": "Sign In",
+        "getStarted": "Get Started"
+    },
+    "Banner": {
+        "badge": "New Productivity Horizon",
+        "title1": "Elevate Your",
+        "focus": "Focus",
+        "title2": "Stack Your",
+        "wins": "Wins",
+        "description": "Don't just manage your tasks—master them. Join the elite community of high-achievers using Focus Stack to reclaim their time and achieve the impossible.",
+        "ctaStarted": "Get Started Now",
+        "ctaHow": "See How It Works",
+        "feat1": "Fast Execution",
+        "feat2": "Goal Precision",
+        "feat3": "Infinite Flow"
+    }
+}
